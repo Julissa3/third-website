@@ -13,3 +13,17 @@ p{
 img{
     border-radius: 50%;
 }
+#special{
+    color:#6495ed; 
+    background-color: #DCDCDC;
+}
+
+#special2{
+    color: #2F4F4F; 
+    background-color: #F0FFF0;
+}
+
+#special13{
+    color: aqua;
+    
+}
