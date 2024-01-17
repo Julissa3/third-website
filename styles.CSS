@@ -24,6 +24,11 @@ img{
 }
 
 #special13{
-    color: aqua;
-    
+    color: rgb(219, 20, 146);
+    background-color: rgb(160, 185, 199);
 }
+
+#special4{
+    border: 2px solid red;
+}
+
